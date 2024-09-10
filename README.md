@@ -1,5 +1,5 @@
 # TesteJavaB2
-Repositório para adicionar prova prática de testes automatizados para a empresa Base2 Tencologia.
+Repositório para adicionar prova prática de testes automatizados para a empresa Base2 Tencologia, disponibilizados na branch master.
 
 API utilizada: https://petstore.swagger.io/
 Linguagem de programação: Java
